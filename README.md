@@ -7,7 +7,7 @@ Projeto acadêmico desenvolvido para a disciplina de Banco de Dados, envolvendo 
 ## 📋 Tarefas Realizadas
 1. **Modelagem Conceitual (MER)**
    - Entidades: Hotel, Quarto, Hóspede, Reserva, etc.
-   - Diagrama: ![Diagrama MER]()![diagrama](https://github.com/user-attachments/assets/114d88c1-ec61-42b3-91a5-16bc95982d82)
+   - Diagrama:![diagrama](https://github.com/user-attachments/assets/114d88c1-ec61-42b3-91a5-16bc95982d82)
 
 
 2. **Implementação em SQL**
