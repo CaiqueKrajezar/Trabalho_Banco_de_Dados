@@ -16,12 +16,5 @@ Projeto acadêmico desenvolvido para a disciplina de Banco de Dados, envolvendo 
    - Consultas avançadas (ex: valor total arrecadado).
 
 ## 🛠 Tecnologias
-- MySQL
-- MySQL Workbench
+- draw.io
 
-## ▶ Como Executar
-1. Clone o repositório.
-2. Execute os scripts SQL na ordem:
-   ```sql
-   USE LocadoraVeiculos;
-   SOURCE Implementacao/Scripts-SQL/criacao_tabelas.sql;
